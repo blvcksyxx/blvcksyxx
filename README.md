@@ -1,9 +1,8 @@
-<h1 align="center">
+<p align="center">
   <a href="https://blvcksyxx.xyz">
-    <span style="color:white;">blvcksyxx</span>
+    <img src="https://dummyimage.com/500x80/000000/ffffff.png&text=blvcksyxx" alt="blvcksyxx">
   </a>
-</h1>
-
+</p>
 ```text
 ┌──(blvcksyxx㉿kali)-[~]
 └─$ whoami
