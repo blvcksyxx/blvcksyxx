@@ -150,5 +150,7 @@ Web APIs
 </p>
 
 <p align="center">
-  <a href="https://blvcksyxx.xyz">blvcksyxx.xyz</a>
+  <a href="https://blvcksyxx.xyz">
+    <img src="https://dummyimage.com/500x80/000000/ffffff.png&text=blvcksyxx.xyz" alt="blvcksyxx.xyz">
+  </a>
 </p>
