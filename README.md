@@ -1,4 +1,9 @@
-   <h1>[blvcksyxx](https://blvcksyxx.xyz)</h1>
+<p align="center">
+  <a href="https://blvcksyxx.xyz">
+    <h1>blvcksyxx</h1>
+  </a>
+</p>
+
 ```text
 ┌──(blvcksyxx㉿kali)-[~]
 └─$ whoami
