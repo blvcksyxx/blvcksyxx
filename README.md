@@ -43,7 +43,7 @@ hack your mommy =)
 <h2 align="center">about</h2>
 
 <p align="center">
-developer focused on linux, backend development, internet infrastructure and web technologies.
+im a badass 19 year old dev who loves to jerk off and write python bullshit, i actually know my shit when it comes to backend, internet engineering, linux, and building custom vpns, fund me please because i want to grow and i am a broke ass motherfucker who needs cash
 </p>
 
 <p align="center">
