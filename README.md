@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://blvcksyxx.xyz">
-    <h1>blvcksyxx</h1>
-  </a>
-</p>
+<h1 align="center">
+  <a href="https://blvcksyxx.xyz">blvcksyxx</a>
+</h1>
 
 ```text
 ┌──(blvcksyxx㉿kali)-[~]
@@ -26,7 +24,7 @@ Server Infrastructure
 ┌──(blvcksyxx㉿kali)-[~]
 └─$ status
 
-building stuff...
+hack your mommy =)
 
 ┌──(blvcksyxx㉿kali)-[~]
 └─$
@@ -68,6 +66,7 @@ i build my own tools and services and like understanding how systems work under 
 
 <table align="center">
 <tr>
+
 <td align="center" width="50%">
 
 <img src="https://skillicons.dev/icons?i=linux,bash,kali&theme=dark" />
@@ -93,9 +92,11 @@ Backend services<br>
 Automation
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" width="50%">
 
 <img src="https://skillicons.dev/icons?i=nginx,docker,cloudflare&theme=dark" />
@@ -121,6 +122,7 @@ Backend integration<br>
 Web APIs
 
 </td>
+
 </tr>
 </table>
 
@@ -142,9 +144,7 @@ Web APIs
 <br>
 
 <p align="center">
-  <a href="https://blvcksyxx.xyz">
-    <img src="https://komarev.com/ghpvc/?username=blvcksyxx&label=profile+views&color=8B5CF6&style=flat-square">
-  </a>
+  <img src="https://anime-counter.lulushu.workers.dev/@blvcksyxx?theme=flat&color=8B5CF6&bg=000000&stroke=8B5CF6&animation=pulse&scale=1.2" alt="Visitors">
 </p>
 
 <p align="center">
