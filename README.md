@@ -3,6 +3,7 @@
     <img src="https://dummyimage.com/500x80/000000/ffffff.png&text=blvcksyxx" alt="blvcksyxx">
   </a>
 </p>
+
 ```text
 ┌──(blvcksyxx㉿kali)-[~]
 └─$ whoami
