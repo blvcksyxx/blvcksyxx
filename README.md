@@ -1,5 +1,7 @@
 <h1 align="center">
-  <a href="https://blvcksyxx.xyz">blvcksyxx</a>
+  <a href="https://blvcksyxx.xyz">
+    <span style="color:white;">blvcksyxx</span>
+  </a>
 </h1>
 
 ```text
@@ -144,7 +146,7 @@ Web APIs
 <br>
 
 <p align="center">
-  <img src="https://anime-counter.lulushu.workers.dev/@blvcksyxx?theme=flat&color=8B5CF6&bg=000000&stroke=8B5CF6&animation=pulse&scale=1.2" alt="Visitors">
+  <img src="https://count.getloli.com/@blvcksyxx?name=blvcksyxx&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="Visitors">
 </p>
 
 <p align="center">
