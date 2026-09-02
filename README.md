@@ -5,12 +5,12 @@
 </p>
 
 ```text
-┌──(blvcksyxx㉿kali)-[~]
+┌──(blvcksyxx㉿pigux)-[~]
 └─$ whoami
 
 blvcksyxx
 
-┌──(blvcksyxx㉿kali)-[~]
+┌──(blvcksyxx㉿pigux)-[~]
 └─$ cat skills.txt
 
 Linux
@@ -23,12 +23,12 @@ Web Development
 OSINT
 Server Infrastructure
 
-┌──(blvcksyxx㉿kali)-[~]
+┌──(blvcksyxx㉿pigux)-[~]
 └─$ status
 
 hack your mommy =)
 
-┌──(blvcksyxx㉿kali)-[~]
+┌──(blvcksyxx㉿pigux)-[~]
 └─$
 ```
 
