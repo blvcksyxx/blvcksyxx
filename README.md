@@ -7,7 +7,6 @@
 ```text
 ┌──(blvcksyxx㉿pigux)-[~]
 └─$ whoami
-
 blvcksyxx
 
 ┌──(blvcksyxx㉿pigux)-[~]
