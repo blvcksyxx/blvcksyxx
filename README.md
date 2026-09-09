@@ -23,9 +23,17 @@ OSINT
 Server Infrastructure
 
 ┌──(blvcksyxx㉿pigux)-[~]
-└─$ status
-
-hack your mommy =)
+└─$ cat /etc/os-release
+PRETTY_NAME="Kali GNU/Linux Rolling"
+NAME="Kali GNU/Linux"
+VERSION_ID="2026.2"
+VERSION="2026.2"
+VERSION_CODENAME="kali-rolling"
+ID=kali
+ID_LIKE=debian
+HOME_URL="https://kali.org"
+SUPPORT_URL="https://kali.org"
+BUG_REPORT_URL="https://kali.org"
 
 ┌──(blvcksyxx㉿pigux)-[~]
 └─$
